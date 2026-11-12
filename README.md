@@ -6,11 +6,11 @@
 
 </div>
 
-### Education
+### 📖Education
 
 ![Undergraduate Mathematics and Statistics at the University of Edinburgh, followed by MSc Computer Science at the University of Hong Kong](education-path.png)
 
-### Skills & tools
+### 🧰Skills & tools
 
 **Programming languages**  
 ![Python](https://img.shields.io/badge/Python-155A63?style=flat-square&logo=python&logoColor=white)
